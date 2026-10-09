@@ -1,0 +1,10 @@
+{
+  "description": "Experience creativity with an interactive makeup game that allows users to apply virtual makeup, learn techniques through tutorials, and participate in challenges.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
